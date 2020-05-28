@@ -8,11 +8,7 @@ import java.util.ArrayList;
  * along with all the line numbers on which each word occurs.
  * (Words of length less than 3 are omitted, "and" and "the" are omitted.)
  * Strip out all punctuation, except apostrophes that occur in the 
- * middle of a word, i.e. let’s, we’d, etc.
- * 
- * Uses an object that implements ConcordanceDataStructureInterface
- * 
- * @author Professor Kartchner
+ * middle of a word, i.e. letâ€™s, weâ€™d, etc.
  *
  */
    public interface ConcordanceDataManagerInterface {
