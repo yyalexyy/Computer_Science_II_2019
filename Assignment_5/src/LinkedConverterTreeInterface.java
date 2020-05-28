@@ -6,11 +6,6 @@ import java.util.ArrayList;
  * It is intended for creation of LinkedTrees that do conversion
  * using a LinkedTree
  * 
- * Note: usually addNode, fetchNode and LNROutputTraversal would be private 
- * 
- * 
- * @author Professor Kartchner
- *
  */
 
 public interface LinkedConverterTreeInterface<T> {
